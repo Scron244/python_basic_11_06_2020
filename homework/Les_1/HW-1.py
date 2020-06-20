@@ -9,5 +9,5 @@ a="Peremennay 1"
 b=1
 print(a)
 
-user=int(input('Введите несколько чисел и строк: '))
+user=(input('Введите несколько чисел и строк: '))
 print(user)

@@ -5,5 +5,5 @@
 # Например, пользователь ввёл число 3. Считаем 3 + 33 + 333 = 369.
 
 n = int(input("Введите число"))
-total = (n + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
-print("%d" % total)
+resuil = (n + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
+print(resuil)
