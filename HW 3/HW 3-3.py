@@ -12,4 +12,5 @@ def my_func(a, b, c):
     max_2 = max(sequence)
     total.append(max_2)
     print(sum(total))
-my_func(5, 8, 10)
+my_func(5, 8, 10) #моя  функция
+
