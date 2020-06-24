@@ -16,4 +16,3 @@ while result_km < b:
     result_km = result_km + a
 print(f"Вы достигнете требуемых показателей на %.d день" % result_day)
 
-
